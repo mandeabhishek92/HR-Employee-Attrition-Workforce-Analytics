@@ -1,5 +1,5 @@
 # HR-Employee-Attrition-Workforce-Analytics
-R Employee Attrition & Workforce Analytics (HR_Attrition_Analytics_Dashboard.pbix)
+HR Employee Attrition & Workforce Analytics (HR_Attrition_Analytics_Dashboard.pbix)
 A single-page workforce intelligence dashboard designed to help HR leaders identify attrition drivers and retention opportunities.
 
 Key Metrics & Visuals:
